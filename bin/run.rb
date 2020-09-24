@@ -2,4 +2,8 @@ Hashie
 Sinatra
 Octokit
 Pry
-AwesomePrint
+AwesomePrint 
+
+require_relative '../Gemfile'
+require_relative '../config/environment'
+
